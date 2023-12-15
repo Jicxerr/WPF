@@ -1,0 +1,24 @@
+﻿<Window x:Name="wpfWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        Background="White"
+        Title="WPF Window">
+  <Grid>
+    <TextBlock Margin="246.8,84.4,247.2,0"
+               VerticalAlignment="Top"
+               Text="Student Information Entry"
+               Grid.Column="0"
+               Grid.Row="0" />
+    <Button Content="Click To Start"
+            Width="75"
+            Height="23"
+            Margin="0,190.6,278.1,0"
+            HorizontalAlignment="Right"
+            VerticalAlignment="Top"
+            Grid.Column="0"
+            Grid.Row="0"
+			/>
+  </Grid>
+</Window>

@@ -1,0 +1,23 @@
+C:\Users\Asus\Documents\GUI\Student Information Entry\bin\Debug\net8.0-windows\Student Information Entry.exe
+C:\Users\Asus\Documents\GUI\Student Information Entry\bin\Debug\net8.0-windows\Student Information Entry.deps.json
+C:\Users\Asus\Documents\GUI\Student Information Entry\bin\Debug\net8.0-windows\Student Information Entry.runtimeconfig.json
+C:\Users\Asus\Documents\GUI\Student Information Entry\bin\Debug\net8.0-windows\Student Information Entry.dll
+C:\Users\Asus\Documents\GUI\Student Information Entry\bin\Debug\net8.0-windows\Student Information Entry.pdb
+C:\Users\Asus\Documents\GUI\Student Information Entry\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Asus\Documents\GUI\Student Information Entry\obj\Debug\net8.0-windows\Student Information Entry_MarkupCompile.cache
+C:\Users\Asus\Documents\GUI\Student Information Entry\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\Asus\Documents\GUI\Student Information Entry\obj\Debug\net8.0-windows\Student Information Entry.g.resources
+C:\Users\Asus\Documents\GUI\Student Information Entry\obj\Debug\net8.0-windows\Student Information Entry.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Documents\GUI\Student Information Entry\obj\Debug\net8.0-windows\Student Information Entry.AssemblyInfoInputs.cache
+C:\Users\Asus\Documents\GUI\Student Information Entry\obj\Debug\net8.0-windows\Student Information Entry.AssemblyInfo.cs
+C:\Users\Asus\Documents\GUI\Student Information Entry\obj\Debug\net8.0-windows\Student Information Entry.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Documents\GUI\Student Information Entry\obj\Debug\net8.0-windows\Student Information Entry.dll
+C:\Users\Asus\Documents\GUI\Student Information Entry\obj\Debug\net8.0-windows\refint\Student Information Entry.dll
+C:\Users\Asus\Documents\GUI\Student Information Entry\obj\Debug\net8.0-windows\Student Information Entry.pdb
+C:\Users\Asus\Documents\GUI\Student Information Entry\obj\Debug\net8.0-windows\Student Information Entry.genruntimeconfig.cache
+C:\Users\Asus\Documents\GUI\Student Information Entry\obj\Debug\net8.0-windows\ref\Student Information Entry.dll
+C:\Users\Asus\Documents\GUI\Student Information Entry\obj\Debug\net8.0-windows\DevelopersPage.baml
+C:\Users\Asus\Documents\GUI\Student Information Entry\obj\Debug\net8.0-windows\EntryPage.baml
+C:\Users\Asus\Documents\GUI\Student Information Entry\obj\Debug\net8.0-windows\DevelopersPage.g.cs
+C:\Users\Asus\Documents\GUI\Student Information Entry\obj\Debug\net8.0-windows\EntryPage.g.cs
+C:\Users\Asus\Documents\GUI\Student Information Entry\obj\Debug\net8.0-windows\Student Information Entry.sourcelink.json

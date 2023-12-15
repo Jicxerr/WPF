@@ -1,0 +1,7 @@
+<!-- DevelopersPage.xaml -->
+<Window x:Class="StudentInfoApp.DevelopersPage"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="About Developers" Height="350" Width="525">
+    <!-- Design your developers' page UI here -->
+</Window>
